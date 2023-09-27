@@ -1,6 +1,6 @@
 <h1 align="center" style="width: 100%"> Hello World 👋 </h1>
 
-### <div align="center">I'm Richard, a frontend developers developer 👨‍💻 working since 2020 🚀</div>  
+### <div align="center">I'm Richard, a frontend developers developer 👨‍💻 working since 2019 🚀</div>  
 
 <br/>  
 
