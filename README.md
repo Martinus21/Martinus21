@@ -26,12 +26,16 @@
 
 ## Frameworks :
 <p align='center'>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<!--   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-  <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> -->
   <img style="width: 10%" alt="React" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg"/>
+  <img style="width: 10%" alt="Vue" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/vuejs.svg"/>
+  <img style="width: 10%" alt="Redux" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/redux.svg"/>
+  <img style="width: 10%" alt="JQuery" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/jquery.svg"/>
+  <img style="width: 10%" alt="Bootstrap" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/bootstrap.svg"/>
 </p>
 
 ## Design :
